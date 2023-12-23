@@ -1,0 +1,17 @@
+header .nav {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: flex-end;
+}
+
+header {
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+
+#hero {
+    margin-top: 50px;
+}
